@@ -1,9 +1,8 @@
-# sql-project-Sales-Analysis
 # Sales Analysis - SQL Project
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis  
+**Project Title**: Sales Analysis  
 **Level**: Beginner  
 **Database**: `p1_retail_db`
 
